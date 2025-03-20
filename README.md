@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Huiyun Zhu | |
+| Huiyun Zhu | | 355235 |
 | Konstantinos Prasopoulos | 285813 |
 | Yuchen Qian | |
 
@@ -97,8 +97,16 @@ Here is a quick enumeration of some initial findings:
 
 
 > - What others have already done with the data?
+    Numerous institutions and organizations have analyzed international trade using datasets similar to CEPII’s BACI, such as the UN Comtrade database and World Bank trade reports. These studies provide broad economic insights, focusing on trade balances, global supply chains, and the effects of geopolitical shifts on commerce. The existing trade data visulizations include: The observatory of economic complexity, world trade oranization trade reports and international trade centre trade map, While these platforms provide valuable insights, they often focus on static trade statistics rather than exploring deeper patterns or historical shifts in globalization. Moreover, they may lack a user-friendly, interactive storytelling component to engage broader audiences beyond economists and policymakers.
 > - Why is your approach original?
+    Our project differentiates itself by:
+    1, Bridging data with real-world events: Instead of merely presenting numbers, we aim to connect trade patterns with significant historical moments, such as trade agreements, financial crises, and supply chain disruptions.
+    2, Identifying critical trade dependencies: By highlighting countries with dominant exports in key product categories, we examine potential risks in global supply chains and economic vulnerabilities.
+    3, Using an interactive, storytelling-based approach: Inspired by data journalism from sources like The Financial Times, The New York Times, and Our World in Data, we focus on making trade data accessible to non-experts through engaging, visually intuitive presentations.
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
+    1, The Financial Times' Trade War Graphics: A visually rich explanation of trade conflicts and economic policies through interactive charts.
+    2, Our World in Data: A platform renowned for its clean, user-friendly approach to data-driven storytelling.
+    3, The New York Times’ Supply Chain Crisis Report: A compelling visual narrative detailing global trade disruptions.
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
 
 ## Milestone 2 (18th April, 5pm)
